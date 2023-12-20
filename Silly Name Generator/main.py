@@ -1,4 +1,6 @@
-import sys, random
+"""Module to assist in exiting the program and picking random name options."""
+import sys
+import random
 
 # Introductory message
 print("Welcome to the Psych 'Sidekick Name Picker.'\n")
